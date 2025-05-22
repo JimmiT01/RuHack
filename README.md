@@ -4,6 +4,14 @@
 
 ![rucontorl](https://github.com/user-attachments/assets/6b59353d-311b-48be-af45-a4a5b1646a12)
 
+## Fake Cheats Preview:
+![Fortinj](https://github.com/user-attachments/assets/28eb6af4-015f-49b2-8986-c2b7cab62ac2)
+
+![mininj](https://github.com/user-attachments/assets/4242afe5-b903-4108-b19a-4ba1caff132e)
+
+![robloxinj](https://github.com/user-attachments/assets/9cd5684b-8789-4250-b1f4-546c23fd5ec9)
+
+![csinjector](https://github.com/user-attachments/assets/fc0d9457-e2d8-476e-ad11-570ea9e55709)
 
 ## Features
 
