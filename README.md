@@ -16,3 +16,6 @@
 - ✖️ BLOCK KEYBOARD
 - ✖️ BLOCK MOUSE
 - 🕶️ DISABLE TASK MANAGER
+
+## Requirements
+- Net Framework 4.7.2 
